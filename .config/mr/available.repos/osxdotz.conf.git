@@ -1,0 +1,2 @@
+[$HOME/.config/osxdotz]
+checkout = git clone 'https://ftc2@bitbucket.org/ftc2/osxdotz.conf.git' 'osxdotz'

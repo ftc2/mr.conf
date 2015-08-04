@@ -1,0 +1,2 @@
+[$HOME/.config/imgur-screenshot]
+checkout = git clone 'https://ftc2@bitbucket.org/ftc2/imgur-screenshot.conf.git' 'imgur-screenshot'

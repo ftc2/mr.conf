@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/zsh.git]
+checkout = vcsh clone 'https://ftc2@bitbucket.org/ftc2/zsh.conf.git' 'zsh'
