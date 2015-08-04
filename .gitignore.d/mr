@@ -4,6 +4,7 @@
 !/.config/mr/*
 !/.config/mr/available.repos
 !/.config/mr/available.repos/*
+!/.config/mr/available.repos/bash_profile.vcsh
 !/.config/mr/available.repos/git.conf.vcsh
 !/.config/mr/available.repos/imgur-screenshot.conf.git
 !/.config/mr/available.repos/mr.conf.vcsh
@@ -11,6 +12,7 @@
 !/.config/mr/available.repos/zsh.conf.vcsh
 !/.config/mr/enabled.repos
 !/.config/mr/enabled.repos/*
+!/.config/mr/enabled.repos/bash_profile.vcsh
 !/.config/mr/enabled.repos/imgur-screenshot.conf.git
 !/.config/mr/enabled.repos/mr.conf.vcsh
 !/.config/mr/enabled.repos/osxdotz.conf.git

@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/bash_profile.git]
+checkout = vcsh clone 'https://ftc2@bitbucket.org/ftc2/bash_profile.git' 'bash_profile'
